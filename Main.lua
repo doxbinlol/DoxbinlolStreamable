@@ -110,7 +110,6 @@ getgenv().Doxbinlol = {
         Speed = 1,
     },
     ['GunFov'] = {
-        GunFOV = {
         Enabled = true,
         DB = 15,
         Rev = 15,
